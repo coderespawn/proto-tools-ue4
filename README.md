@@ -4,6 +4,8 @@ A set of tools to quickly prototype your levels.  More info [here](https://forum
 
 ![Proto Tools](https://i.imgur.com/BlK5G0u.jpg)
 
+Video
+-----
 [![Proto Tools](https://img.youtube.com/vi/Kqmdn39volg/0.jpg)](https://www.youtube.com/watch?v=Kqmdn39volg)
 
 
